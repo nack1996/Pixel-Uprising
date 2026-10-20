@@ -11,15 +11,6 @@ Files:
 
 Not affiliated with, endorsed by or connected to the original developer, publisher, or any band, artist or brand that appears in the original game. Includes FFmpeg (GPL), used only to convert the original videos.
 
-PIXEL UPRISING 0.1.0
-====================
-
-An unofficial, fan-made engine that lets you play again a 2010 iOS game on Mac and Windows.
-
-This package contains ONLY the engine. It does not include any graphics, music, sound effects,
-videos, texts or data from the original game. You need your own copy of the original game file.
-
-
 WHAT YOU NEED
 -------------
 - The original iOS game file, version 1.4.5 (other versions are not supported), in .ipa format.
